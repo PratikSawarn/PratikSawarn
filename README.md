@@ -68,7 +68,7 @@ Freelancer || Fullstack Dev || Nextjs, MERN, Typescript || I tell stories around
  -->
 <br/>
 
-![Amit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alsoamit&bg_color=000000&color=c2c2c2&line=53d0a0&point=0f7b69&area=true&hide_border=true)
+![Pratik github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alsoamit&bg_color=000000&color=c2c2c2&line=53d0a0&point=0f7b69&area=true&hide_border=true)
 
 <br/>
 
