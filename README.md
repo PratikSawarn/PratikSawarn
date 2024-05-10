@@ -1,4 +1,4 @@
-# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> , I'm Amit
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> , I'm Pratik
 
 <p>
 Freelancer || Fullstack Dev || Nextjs, MERN, Typescript || I tell stories around Web 
