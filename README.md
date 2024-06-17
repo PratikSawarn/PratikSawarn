@@ -76,7 +76,7 @@ Freelancer || Fullstack Dev || Nextjs, MERN, Typescript || I tell stories around
 
 <!-- <a href="https://alsoamit.com/"><img alt="website" src ="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> -->
 
-<a href="mailto:pandeyshiv006@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:devspratik@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/pratik-sawarn-b7413b246/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!-- <a href="https://stackoverflow.com/users/14785394/amit"><img alt="stackoverflow" src ="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> -->
